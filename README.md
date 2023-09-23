@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🌱 I'm currently learning machine learning models. 
+### ⚡ Fun fact: I am a Technical Diver and am passionate about the Ocean.
 
 <!--
 **xlumzee/xlumzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
