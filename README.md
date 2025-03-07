@@ -10,11 +10,11 @@
    
 
 - 🌱 I’m currently learning **🐻‍❄️ Polars** 
-- 👨‍💻 All of my projects are available at [https://github.com/anopsy](https://github.com/xlumzee)
+- 👨‍💻 All of my projects are available at [https://github.com/xlumzee](https://github.com/xlumzee)
 
 - 📑If you'd like to hire me, check my [CV](https://github.com/xlumzee/xlumzee/blob/main/AmulyaS_CV_DS.pdf)
 
-- 📝 I write about my learning journey on [https://medium.com/@anopsy28](https://medium.com/@examulya)
+- 📝 I write about my learning journey on [https://medium.com/@examulya](https://medium.com/@examulya)
 
 - 📫 How to reach me **examulya@gmail.com**
 
