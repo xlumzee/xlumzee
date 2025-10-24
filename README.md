@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist • Scuba Diver • Open-Source Contributor</h3>
 
 <p align="center">
-🚀 Exploring the intersection of data, AI, and the real world — from <b>machine learning pipelines</b> to <b>underwater ecosystems</b>.<br>
+Exploring the intersection of data, AI, and the real world — from <b>machine learning pipelines</b> to <b>underwater ecosystems</b>.<br>
 Curious by nature, driven by impact, and currently seeking a <b>Data Scientist</b> role to transform data into decisions.
 </p>
 
@@ -17,7 +17,7 @@ Curious by nature, driven by impact, and currently seeking a <b>Data Scientist</
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45"/>
