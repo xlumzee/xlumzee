@@ -37,7 +37,6 @@ Curious by nature, driven by impact, and currently seeking a <b>Data Scientist</
 <p align="center">
   <a href="https://linkedin.com/in/amulyasaxena" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://kaggle.com/amulyas" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45"/></a>
-  <a href="https://medium.com/@examulya" target="_blank"><img src="https://skillicons.dev/icons?i=medium" width="45"/></a>
   <a href="https://instagram.com/lumayas" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 </p>
 
