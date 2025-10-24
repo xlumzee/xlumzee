@@ -6,17 +6,16 @@
 
 
 - I’m currently working on:\
-📊 [Optimizing Trading Strategies using Reinforcement Learning](https://github.com/xlumzee/DSCI-601-Amy)
+[FinePrint](https://github.com/xlumzee/FinePrint)
    
 
 - 🌱 I’m currently learning **🐻‍❄️ Polars** 
 - 👨‍💻 All of my projects are available at [https://github.com/xlumzee](https://github.com/xlumzee)
 
-- 📑If you'd like to hire me, check my [CV](https://github.com/xlumzee/xlumzee/blob/main/AmulyaS_CV_DS.pdf)
+- 📑If you'd like to hire me, check my [CV](https://github.com/xlumzee/xlumzee/blob/main/Amulya_CV.pdf)
 
-- 📝 I write about my learning journey on [https://medium.com/@examulya](https://medium.com/@examulya)
+- I write about my learning journey on [Linkedin](https://www.linkedin.com/in/amulyasaxena/)
 
-- 📫 How to reach me **examulya@gmail.com**
 
 
 
