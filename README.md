@@ -23,7 +23,6 @@ Curious by nature, driven by impact, and currently seeking a <b>Data Scientist</
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="45"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45"/>
-  <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTkWJOjG72GkPtWaAZfyjTmxHU16HMtiAsQXx1aCcnKSZ_o7x9" alt="Polars" width="120"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45"/>
